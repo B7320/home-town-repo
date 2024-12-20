@@ -16,7 +16,7 @@ body {
 }
 
 .hero {
-    background-image: url(/src/img/country.webp);
+    background-image: url(/img/country.webp);
     background-size: cover;
     background-position: center;
     height: 500px;
@@ -71,7 +71,7 @@ body {
 }
 
 .place {
-    background-image: url(/src/img/The-Dom-of-the-Rock.jpg);
+    background-image: url(/img/The-Dom-of-the-Rock.jpg);
     background-size: cover;
     background-position: center;
     width: 150px;
@@ -86,7 +86,7 @@ body {
 }
 
 .place2 {
-    background-image: url(/src/img/Dead-Sea.jpg);
+    background-image: url(/img/Dead-Sea.jpg);
     background-size: cover;
     background-position: center;
     width: 150px;
@@ -95,7 +95,7 @@ body {
 }
 
 .place3 {
-    background-image: url(/src/img/Old-City-in-Jerusalem.jpg);
+    background-image: url(/img/Old-City-in-Jerusalem.jpg);
     background-size: cover;
     background-position: center;
     width: 150px;
@@ -146,7 +146,7 @@ body {
     border-radius: 20px;
     margin: 20px;
     border: none;
-    background-image: url(/src/img/me.jpeg);
+    background-image: url(/img/me.jpeg);
     background-size: cover;
     background-position: center;
 }
